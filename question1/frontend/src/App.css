@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+.form-group {
+  margin-bottom: 15px;
+}
+.input-field {
+  width: 100%;
+  padding: 8px;
+  margin: 5px 0;
+}
+.error {
+  color: red;
+  font-size: 14px;
+}
+.shortened-urls {
+  margin-top: 20px;
+}
+.url-item {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+.stats {
+  margin-top: 20px;
+}
